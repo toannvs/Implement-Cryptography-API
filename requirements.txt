@@ -1,0 +1,7 @@
+uvicorn
+pydantic
+fastapi
+pycryptodome
+python-multipart
+requests
+cryptography
